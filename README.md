@@ -1,5 +1,5 @@
 # covetcc-reversal
-This is a reversal of a pay to cheat called covet.cc
+This is an unfinished reversal of a pay to cheat called covet.cc
  
 # Mitigating authentication
 The cheats loader made use of the authentication service c0gnito which can easily be bypassed without much effort giving the attacker access to its payload.
